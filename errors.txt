@@ -1,0 +1,1 @@
+<class 'socket.gaierror'>:11923<class 'ConnectionRefusedError'>:2282<class 'FileNotFoundError'>:319<class 'ssl.SSLError'>:1917<class 'ConnectionResetError'>:480<class 'TimeoutError'>:5507<class 'whois.parser.PywhoisError'>:594<class 'ssl.SSLZeroReturnError'>:2
